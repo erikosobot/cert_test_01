@@ -15,7 +15,7 @@ Example:
 6. [Contact](#contact)
 
 ## Installation
-Provide instructions on how to set up the project locally. Include necessary dependencies, software versions, and commands.
+Provide instructions on how to set up the project locally. Include necessary dependencies, software versions, and commands. Hello!
 
 Example:
 ```bash
